@@ -1,0 +1,1 @@
+Hi! I'm Will. I do maths, specializing in Mathematical Biology, Asymptotics, and Partial Differential Equations. I'm currently a PhD candidate in Applied Mathematics. I have a plethora of conventionally nerdy and non-nerdy [[Hobbies|hobbies]]. 

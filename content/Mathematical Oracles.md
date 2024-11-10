@@ -1,0 +1,1 @@
+Oracles are the stuff of legends, ubiquitous through folklore from times immemorial, modern day epics of fiction, and a selection of the pantheon of superheros. While most physicists are in agreement that the best models preclude our universe from being deterministic, there are some complications with oracles even in a perfectly deterministic world
