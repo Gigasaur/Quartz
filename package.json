@@ -9,7 +9,7 @@
   "homepage": "https://quartz.jzhao.xyz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "git+https://github.com/jackyzha0/quartz.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
@@ -32,7 +32,7 @@
     "quartz"
   ],
   "bin": {
-    "quartz": "./quartz/bootstrap-cli.mjs"
+    "quartz": "quartz/bootstrap-cli.mjs"
   },
   "dependencies": {
     "@clack/prompts": "^0.7.0",
@@ -108,5 +108,13 @@
     "prettier": "^3.3.3",
     "tsx": "^4.19.2",
     "typescript": "^5.6.3"
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/jackyzha0/quartz/issues"
   }
 }

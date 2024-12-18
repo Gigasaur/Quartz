@@ -2,8 +2,8 @@
 title: Psi Squared
 ---
 - [[About me]]
-- [[Musings]]
+- [[For Fun]]
 - [[Hobbies]]
-- [[Quotes]]
 - [[Programming]]
-- [[Opinions]]
+- [[Research Interests]]
+
